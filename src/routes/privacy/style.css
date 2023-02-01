@@ -1,0 +1,24 @@
+.container {
+  color: var(--White);
+  padding: 2rem;
+}
+
+ul {
+  margin-left: 3rem;
+}
+
+a {
+  color: var(--Secondary);
+}
+
+p {
+  margin-left: 2rem;
+}
+
+strong {
+  margin-left: -1rem;
+}
+
+span {
+  text-decoration: underline;
+}
