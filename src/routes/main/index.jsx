@@ -7,6 +7,7 @@ export default function Main() {
     <div className="main-container">
       <img src={Logo} alt="Muslim Bank" />
       <h1>Muslim Bank - بنك المسلم</h1>
+      <a href="https://play.google.com/store/apps/details?id=muslimbank.osmx.me">Download</a>
       <NavLink to="/privacy">Privacy</NavLink>
     </div>
   );
